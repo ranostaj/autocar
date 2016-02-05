@@ -1,0 +1,17 @@
+/**
+  MD Lists
+
+*/
+
+
+md-list {
+
+  &.md-list-fit {
+
+    md-list-item {
+      min-height:inherit;
+    }
+
+  }
+
+}

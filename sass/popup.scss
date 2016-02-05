@@ -1,0 +1,44 @@
+
+@media print {
+  table th td {
+    padding: 5px; background: #333; color:#fff;
+  }
+}
+
+
+.container {
+  padding:30px 30px 80px 30px ;
+}
+
+.title {
+  margin:0 0 20px 0;
+}
+
+.sign, .owner {
+
+}
+
+.sign {
+  padding-top:125px;
+}
+
+.owner {
+  padding-left: 100px;
+}
+
+.section {
+  margin-bottom: 10px;
+}
+
+.price {
+  margin-bottom: 10px;
+}
+.price-amount {
+  font-size: 22px;
+  border:1px solid #333;
+  padding: 4px;
+}
+
+.gallery {
+  padding: 10px;
+}
