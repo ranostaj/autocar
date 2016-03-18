@@ -1,9 +1,12 @@
-## Backend Rest API
-	
--Cake php
+### Architecture
 
+- Single page application
 
-## Frontend	
+### Backend
 	
--Angular 1.x JS
+- CakePHP 3.x
+
+### Frontend	
+	
+- AngularJS 1.x
 
